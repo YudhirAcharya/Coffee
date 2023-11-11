@@ -1,2 +1,5 @@
 # Coffee
- Shop
+
+Shop
+
+npx react-native init CoffeeApp
